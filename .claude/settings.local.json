@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(source ~/.bashrc)",
+      "Bash(set EMAIL_USERNAME=1372943709@qq.com)",
+      "Bash(set EMAIL_PASSWORD=rdwczjrfwdnkbagj)",
+      "Bash(chcp 65001)",
+      "Bash(PYTHONIOENCODING=utf-8 python main.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python final_test.py)",
+      "Bash(git:*)"
+    ]
+  }
+}
